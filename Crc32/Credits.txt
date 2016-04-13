@@ -1,0 +1,3 @@
+﻿Original source: https://github.com/damieng/DamienGKit/blob/master/CSharp/DamienG.Library/Security/Cryptography/Crc32.cs
+
+The credits for this library all go to Damien.

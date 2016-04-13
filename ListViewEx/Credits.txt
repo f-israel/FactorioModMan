@@ -1,0 +1,4 @@
+﻿Big thanks to mav.northwind
+http://www.codeproject.com/Articles/9188/Embedding-Controls-in-a-ListView
+
+This control is an adapted version of the linked original. All credits goes to the original author.
